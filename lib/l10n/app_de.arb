@@ -1,0 +1,15 @@
+{
+  "greeting": "Hallo!",
+
+  "greeting_user": "Lieber {userName}!",
+  "@greeting_user": {
+    "description": "greeting",
+    "placeholders": {
+        "userName": {
+            "type": "String",
+            "example": "Tom"
+        }
+    } 
+  } 
+   
+}
