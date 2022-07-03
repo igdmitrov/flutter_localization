@@ -1,4 +1,4 @@
-# flutter_localization
+# Flutter localization
 
 Example on Flutter how to localise applications.
 
